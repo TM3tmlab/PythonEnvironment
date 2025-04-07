@@ -1,0 +1,4 @@
+# conda 24.11.3 基準
+matplotlib==3.9.2
+numpy==1.26.4    
+scikit-learn==1.5.1 
